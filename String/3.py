@@ -1,0 +1,6 @@
+print('hello '.capitalize() + 'world!'.capitalize())
+print('root'.upper())
+print('ROOt'.lower())
+print('hello world'.__len__())
+print(len('hello world'))
+print('Hello world'.replace('world', 'Python'))
