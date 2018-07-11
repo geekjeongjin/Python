@@ -20,6 +20,7 @@ class C3(C2, C1):
     def m(self):
         print("C3_m")
 
+
 c = C3()
 c.c1_m()
 c.c2_m()
